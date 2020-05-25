@@ -48,12 +48,12 @@
 		"submenu": "Media Updates",
 		"iap": false,
 		"tabs": [{
-				"title": "فلوجات ",
+				"title": "بث مباشر ",
 				"provider": "youtube",
 				"image": "TV-Show-32",
 				"arguments": [
-					"raghiblog",
-					"channel"
+					"UCPBcpWVTN2ilF9KsRYEe1Fg",
+					"live"
 				]
 			},
 
@@ -68,41 +68,41 @@
 		"tabs": [{
 				"title": "مقالات",
 				"image": "Microphone-32",
-				"provider": "radio",
+				"provider": "webview",
 				"arguments": [
-					"https://no-token-siriusxmamp-priprodlive-0.akamaized.net/AAC_Data/doctorradio/doctorradio_variant_small_v3.m3u8"
+					"https://www.th3professional.com/search/label/blogpost?max-results=16#post-body-5424519272907193965"
 				]
 			},
 			{
 				"title": "حصريات ",
-				"provider": "radio",
+				"provider": "webview",
 				"image": "Domain-32",
 				"arguments": [
-					"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk"
+					"https://www.th3professional.com/search/label/حصريات?max-results=16#post-body-4297805406959103656"
 				]
 			},
 			{
 				"title": "الحماية ",
-				"provider": "radio",
+				"provider": "webview",
 				"image": "Domain-32",
 				"arguments": [
-					"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk"
+					"https://www.th3professional.com/search/label/%D8%AF%D8%B1%D9%88%D8%B3%20%D8%AD%D9%85%D8%A7%D9%8A%D8%A9?max-results=16#post-body-8446910328355272011"
 				]
 			},
 			{
 				"title": "جوجل ",
-				"provider": "radio",
+				"provider": "webview",
 				"image": "Domain-32",
 				"arguments": [
-					"https://www.th3professional.com/search/label/googleplus?max-results=16"
+					"https://www.th3professional.com/search/label/googleplus?max-results=16#post-body-7778953505899990709"
 				]
 			},
 						{
 				"title": "فيسبوك ",
-				"provider": "radio",
+				"provider": "webview",
 				"image": "Domain-32",
 				"arguments": [
-					"https://www.th3professional.com/search/label/%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83?max-results=16"
+					"https://www.th3professional.com/search/label/%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83?max-results=16#post-body-2115279203351204082"
 				]
 			}
 			
@@ -117,25 +117,25 @@
 		"tabs": [{
 				"title": "ويندوز",
 				"image": "Microphone-32",
-				"provider": "radio",
+				"provider": "webview",
 				"arguments": [
-					"https://www.th3professional.com/search/label/windows7?max-results=16"
+					"https://www.th3professional.com/search/label/windows7?max-results=16#post-body-2328199128021172309"
 				]
 			},
 			{
 				"title": "لينكس ",
-				"provider": "radio",
+				"provider": "webview",
 				"image": "Domain-32",
 				"arguments": [
-					"https://www.th3professional.com/search/label/linux?max-results=16"
+					"https://www.th3professional.com/search/label/linux?max-results=16#post-body-5860303134737165714"
 				]
 			},
 			{
 				"title": "اندرويد ",
-				"provider": "radio",
+				"provider": "webview",
 				"image": "Domain-32",
 				"arguments": [
-					"https://www.th3professional.com/search/label/android?max-results=16"
+					"https://www.th3professional.com/search/label/android?max-results=16#post-body-464346781908747904"
 				]
 			}
 			
@@ -157,19 +157,6 @@
 		}]
 	},
 
-	{
-		"title": "Stats By WhatsApp",
-		"drawable": "Whatsapp-32",
-		"submenu": "Social Media Updates",
-		"iap": false,
-		"tabs": [{
-			"title": "Get Stats By WhatsApp",
-			"provider": "whatsapp",
-			"arguments": [
-				""
-			]
-		}]
-	},
 
 	{
 		"title": "Facebook",
@@ -224,12 +211,12 @@
 		}]
 	},
 	{
-		"title": "ادعم المطور",
+		"title": "ادعم المبرمج",
 		"drawable": "Donate-32",
 		"submenu": "About Us",
 		"iap": false,
 		"tabs": [{
-				"title": "Support Our Development",
+				"title": "دعم المبرمج",
 				"provider": "webview",
 				"image": "Resources-32",
 				"arguments": [
@@ -237,13 +224,22 @@
 				]
 			},
 			{
-				"title": "Other Ways",
+				"title": "طرق اخرئ",
 				"provider": "webview",
 				"image": "Resources-32",
 				"arguments": [
 					"https://23mediapros.blogspot.com/p/support-us.html"
 				]
-			}
+			},
+			 {
+				"title": "تواصل بلتوس اب",
+				"provider": "whatsapp",
+				"image": "Whatsapp-32",
+				"arguments": [
+					""
+				]
+			},
+			 
 
 		]
 	},
