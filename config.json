@@ -13,21 +13,11 @@
 				]
 			},
 			{
-				"title": "البث المباشر",
+				"title": "فلوجات وبث مباشر",
 				"provider": "youtube",
 				"image": "Online-32",
 				"arguments": [
-					"UCO58fldVogtwlz7c2PTeWrg",
-					"live"
-					
-				]
-			},
-			 			{
-				"title": " الربح من الانترنت",
-				"provider": "youtube",
-				"image": "Online-32",
-				"arguments": [
-					"UCM6LlJ25we5soudMl0QH20g",
+					"UCPBcpWVTN2ilF9KsRYEe1Fg",
 					"channel"
 					
 				]
