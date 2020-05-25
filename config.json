@@ -10,7 +10,7 @@
 				"image": "Domain-32",
 				"arguments": [
 					"geekraghib",
-          "channel"
+					"channel"
 				]
 			},
 			{
@@ -44,7 +44,7 @@
 	},
  {
 		"title": "تدوين مرئي",
-		"drawable": "TV-Show-32",f
+		"drawable": "TV-Show-32",
 		"submenu": "Media Updates",
 		"iap": false,
 		"tabs": [{
@@ -53,7 +53,7 @@
 				"image": "TV-Show-32",
 				"arguments": [
 					"raghiblog",
-   "channel"
+					"channel"
 				]
 			},
  	{
