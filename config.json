@@ -27,7 +27,7 @@
 				"provider": "webview",
 				"image": "btn_navigate",
 				"arguments": [
-					"https://www.th3professional.com/search/label/giveaway?max-results=16"
+					"https://www.th3professional.com/search/label/giveaway?max-results=16#post-body-7918051403958411254"
 
 				]
 			},
@@ -36,7 +36,7 @@
 				"provider": "webview",
 				"image": "TV-Show-32",
 				"arguments": [
-					"https://www.th3professional.com/search/label/%D8%AD%D9%84%D9%82%D8%A7%D8%AA%20%D9%85%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5%D9%8A%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9?max-results=16"
+					"https://www.th3professional.com/search/label/%D8%AD%D9%84%D9%82%D8%A7%D8%AA%20%D9%85%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5%D9%8A%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9?max-results=16#post-body-5526956791373638276"
 					
 				]
 			}
@@ -48,7 +48,7 @@
 		"submenu": "Media Updates",
 		"iap": false,
 		"tabs": [{
-				"title": "بث مباشر ",
+				"title": "البث المباشر سيضهر عن التوفر ",
 				"provider": "youtube",
 				"image": "TV-Show-32",
 				"arguments": [
@@ -62,7 +62,7 @@
 	},
 	{
 		"title": "مقالات",
-		"drawable": "Microphone-32",
+		"drawable": "News-32",
 		"submenu": "Media Updates",
 		"iap": false,
 		"tabs": [{
@@ -152,7 +152,7 @@
 			"provider": "rss",
 			"image": "News-32",
 			"arguments": [
-				"https://www.th3professional.com/feeds/posts/default"
+				"https://www.blogger.com/feeds/4333142131555820750/posts/default?start-index=26&amp;max-results=25"
 			]
 		}]
 	},
@@ -167,7 +167,7 @@
 			"title": "Facebook",
 			"provider": "webview",
 			"arguments": [
-				"https://www.facebook.com/TH3.professional/"
+				"https://www.facebook.com/TH3.professional#js_b"
 			]
 		}]
 	},
