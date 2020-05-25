@@ -8,16 +8,27 @@
 				"provider": "youtube",
 				"image": "Domain-32",
 				"arguments": [
-					"geekraghib",
+					"UCO58fldVogtwlz7c2PTeWrg",
 					"channel"
 				]
 			},
 			{
 				"title": "البث المباشر",
-				"provider": "webview",
+				"provider": "youtube",
 				"image": "Online-32",
 				"arguments": [
-					"https://www.th3professional.com/p/live.html"
+					"UCO58fldVogtwlz7c2PTeWrg",
+					"live"
+					
+				]
+			},
+			 			{
+				"title": " الربح من الانترنت",
+				"provider": "youtube",
+				"image": "Online-32",
+				"arguments": [
+					"UCM6LlJ25we5soudMl0QH20g",
+					"channel"
 					
 				]
 			},
