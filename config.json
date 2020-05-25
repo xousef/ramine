@@ -4,7 +4,7 @@
 		"submenu": "الرئيسية",
 		"iap": false,
 		"tabs": [{
-				"title": "               قناة المحترف",
+				"title": "قناة المحترف",
 				"provider": "youtube",
 				"image": "Domain-32",
 				"arguments": [
