@@ -243,10 +243,17 @@
 
 		]
 	},
+ 	{
+	"title": "اجمالي حالات الوباء",
+	"provider": "alltheworld",
+	"image": "Domain-32",
+	"submenu": "الحجر الصحي",
+	"arguments": [ "" ]
+	},
 	{
-		"title": "Stats By Country",
+		"title": "احصائيات كورونا في الدول",
 		"drawable": "Countries-32",
-		"submenu": "Statistics Updates",
+		"submenu": "الحجر الصحي",
 		"iap": false,
 		"tabs": [{
 				"title": "United States",
