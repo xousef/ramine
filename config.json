@@ -4,7 +4,7 @@
 		"submenu": "Statistics Updates",
 		"iap": false,
 		"tabs": [{
-				"title": "قناة المحترف",
+				"title": "               قناة المحترف",
 				"provider": "youtube",
 				"image": "Domain-32",
 				"arguments": [
@@ -142,22 +142,6 @@
 		]
 
 	},
-	{
-		"title": "RSS تحديثات",
-		"drawable": "News-32",
-		"submenu": "Media Updates",
-		"iap": false,
-		"tabs": [{
-			"title": "Latest Feed",
-			"provider": "rss",
-			"image": "News-32",
-			"arguments": [
-				"https://rss.app/feeds/Pm9mBtRLt2cgGKfl.xml"
-			]
-		}]
-	},
-
-
 	{
 		"title": "Facebook",
 		"drawable": "Facebook-32",
