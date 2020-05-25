@@ -1,7 +1,7 @@
 [{
 		"title": "قنـــاة المحترف",
 		"drawable": "Domain-32",
-		"submenu": "Statistics Updates",
+		"submenu": "الرئيسية",
 		"iap": false,
 		"tabs": [{
 				"title": "               قناة المحترف",
@@ -45,7 +45,7 @@
 	{
 		"title": " تدوين مرئي",
 		"drawable": "TV-Show-32",
-		"submenu": "Media Updates",
+		"submenu": "تدوين",
 		"iap": false,
 		"tabs": [{
 				"title": "البث المباشر ",
@@ -63,7 +63,7 @@
 	{
 		"title": "مقالات",
 		"drawable": "News-32",
-		"submenu": "Media Updates",
+		"submenu": "تدوين",
 		"iap": false,
 		"tabs": [{
 				"title": "مقالات",
@@ -112,7 +112,7 @@
 	{
 		"title": "الانظمه",
 		"drawable": "Microphone-32",
-		"submenu": "Media Updates",
+		"submenu": "تدوين",
 		"iap": false,
 		"tabs": [{
 				"title": "ويندوز",
@@ -145,7 +145,7 @@
 	{
 		"title": "Facebook",
 		"drawable": "Facebook-32",
-		"submenu": "Social Media Updates",
+		"submenu": "مواقع التواصل",
 		"iap": false,
 		"tabs": [{
 			"title": "Facebook",
@@ -158,7 +158,7 @@
 	{
 		"title": "Twitter",
 		"drawable": "Twitter-32",
-		"submenu": "Social Media Updates",
+		"submenu": "مواقع التواصل",
 		"iap": false,
 		"tabs": [{
 			"title": "Twitter",
@@ -171,7 +171,7 @@
 	{
 		"title": "Instagram",
 		"drawable": "Instagram-32",
-		"submenu": "Social Media Updates",
+		"submenu": "مواقع التواصل",
 		"iap": false,
 		"tabs": [{
 			"title": "Instagram",
