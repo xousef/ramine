@@ -13,7 +13,7 @@
 				]
 			},
 			{
-				"title": "فلوجات وبث مباشر",
+				"title": "فلوجات البث المباشر",
 				"provider": "youtube",
 				"image": "Online-32",
 				"arguments": [
@@ -48,7 +48,7 @@
 		"submenu": "Media Updates",
 		"iap": false,
 		"tabs": [{
-				"title": "البث المباشر سيضهر عن التوفر ",
+				"title": "البث المباشر ",
 				"provider": "youtube",
 				"image": "TV-Show-32",
 				"arguments": [
@@ -243,13 +243,21 @@
 
 		]
 	},
- 	{
-	"title": "اجمالي حالات الوباء",
-	"provider": "alltheworld",
-	"image": "Domain-32",
-	"submenu": "الحجر الصحي",
-	"arguments": [ "" ]
-	},
+	{
+		"title": "اجمالي حالات الوباء",
+		"drawable": "Countries-32",
+		"submenu": "الحجر الصحي",
+		"iap": false,
+		"tabs": [{
+				"title": "United States",
+				"provider": "alltheworld",
+				"submenu": "الحجر الصحي",
+				"arguments": [
+					""
+				]
+			},
+		]
+	},	      
 	{
 		"title": "احصائيات كورونا في الدول",
 		"drawable": "Countries-32",
