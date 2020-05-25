@@ -152,7 +152,7 @@
 			"provider": "rss",
 			"image": "News-32",
 			"arguments": [
-				"https://www.blogger.com/feeds/4333142131555820750/posts/default?start-index=26&amp;max-results=25"
+				"https://www.blogger.com/feeds/4333142131555820750/posts/default?start-index=26"
 			]
 		}]
 	},
