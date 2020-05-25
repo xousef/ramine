@@ -1,1 +1,244 @@
 
+[{
+		"title": "قنـــاة المحترف",
+		"drawable": "Domain-32",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+				"title": "قناة المحترف",
+				"provider": "youtube",
+				"image": "Domain-32",
+				"arguments": [
+					"geekraghib",
+          "channel"
+				]
+			},
+			{
+				"title": "البث المباشر",
+				"provider": "webview",
+				"image": "Online-32",
+				"arguments": [
+					"https://www.th3professional.com/p/live.html"
+					
+				]
+			},
+			{
+				"title": "المجانيات",
+				"provider": "webview",
+				"image": "btn_navigate",
+				"arguments": [
+					"https://www.th3professional.com/search/label/giveaway?max-results=16"
+
+				]
+			},
+			{
+				"title": "الحلقات",
+				"provider": "webview",
+				"image": "TV-Show-32",
+				"arguments": [
+					"https://www.th3professional.com/search/label/%D8%AD%D9%84%D9%82%D8%A7%D8%AA%20%D9%85%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5%D9%8A%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9?max-results=16"
+
+				]
+			}
+		]
+	},
+ {
+		"title": "تدوين مرئي",
+		"drawable": "TV-Show-32",f
+		"submenu": "Media Updates",
+		"iap": false,
+		"tabs": [{
+				"title": "فلوجات",
+				"provider": "youtube",
+				"image": "TV-Show-32",
+				"arguments": [
+					"raghiblog",
+   "channel"
+				]
+			},
+ 	{
+		"title": "الاخبار",
+		"drawable": "TV-Show-32",
+		"submenu": "Media Updates",
+		"iap": false,
+		"tabs": [{
+				"title": "الاخبار",
+				"provider": "webview",
+				"image": "TV-Show-32",
+				"arguments": [
+					"https://www.th3professional.com/search/label/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1?max-results=16"
+				]
+			},
+	
+	{
+		"title": "مقالات",
+		"drawable": "TV-Show-32",
+		"submenu": "Media Updates",
+		"iap": false,
+		"tabs": [{
+				"title": "مقالات",
+				"provider": "webview",
+				"image": "TV-Show-32",
+				"arguments": [
+					"https://www.th3professional.com/search/label/blogpost?max-results=16"
+				]
+			},
+			{
+				"title": " حصريات ",
+				"provider": "webview",
+				"image": "Domain-32",
+				"arguments": [
+					"https://www.th3professional.com/search/label/%D8%AD%D8%B5%D8%B1%D9%8A%D8%A7%D8%AA?max-results=16"
+				]
+			},
+			{
+				"title": "الحماية",
+				"provider": "webview",
+				"image": "Online-32",
+				"arguments": [
+					"https://www.th3professional.com/search/label/%D8%AF%D8%B1%D9%88%D8%B3%20%D8%AD%D9%85%D8%A7%D9%8A%D8%A9?max-results=16"
+				]
+			}
+		]
+
+	},
+	{
+		"title": "ويندوز",
+		"drawable": "Microphone-32",
+		"submenu": "الانظمة",
+		"iap": false,
+		"tabs": [{
+				"title": "ويندوز",
+				"image": "Microphone-32",
+				"provider": "webview",
+				"arguments": [
+					"https://www.th3professional.com/search/label/windows7?max-results=16"
+				]
+			},
+			{
+				"title": "لينكس",
+				"provider": "webview",
+				"image": "Domain-32",
+				"arguments": [
+					"https://www.th3professional.com/search/label/linux?max-results=16"
+				]
+			}
+		]
+
+	},
+ 			{
+				"title": "اندرويد",
+				"provider": "webview",
+				"image": "Domain-32",
+				"arguments": [
+					"https://www.th3professional.com/search/label/android?max-results=16"
+				]
+			}
+		]
+
+	},
+	{
+		"title": "RSS تحديثات ",
+		"drawable": "News-32",
+		"submenu": "Media Updates",
+		"iap": false,
+		"tabs": [{
+			"title": "RSS تحديثات",
+			"provider": "rss",
+			"image": "News-32",
+			"arguments": [
+				"https://www.th3professional.com/feeds/posts/default"
+			]
+		}]
+	},
+	
+	{
+		"title": "Facebook",
+		"drawable": "Facebook-32",
+		"submenu": "Social Media Updates",
+		"iap": false,
+		"tabs": [{
+			"title": "Facebook",
+			"provider": "webview",
+			"arguments": [
+				"https://www.facebook.com/TH3.professional/"
+			]
+		}]
+	},
+	{
+		"title": "Twitter",
+		"drawable": "Twitter-32",
+		"submenu": "Social Media Updates",
+		"iap": false,
+		"tabs": [{
+			"title": "Twitter",
+			"provider": "twitter",
+			"arguments": [
+				"mr_Raghib"
+			]
+		}]
+	},
+	{
+		"title": "Instagram",
+		"drawable": "Instagram-32",
+		"submenu": "Social Media Updates",
+		"iap": false,
+		"tabs": [{
+			"title": "Instagram",
+			"provider": "webview",
+			"arguments": [
+				"https://www.instagram.com/raghib.official/"
+			]
+		}]
+	},
+	{
+		"title": "التحق بلفريق",
+		"drawable": "Domain-32",
+		"submenu": "About Us",
+		"iap": false,
+		"tabs": [{
+			"title": "التحق بفريق العمل",
+			"provider": "webview",
+			"arguments": [
+				"https://www.th3professional.com/p/join-us.html"
+			]
+		}]
+	},
+	{
+		"title": "ادعم المطور",
+		"drawable": "Donate-32",
+		"submenu": "ساعد",
+		"iap": false,
+		"tabs": [{
+				"title": "Support Our Development",
+				"provider": "webview",
+				"image": "Resources-32",
+				"arguments": [
+					"https://cash.app/$Xousef"
+				]
+			},
+			{
+				"title": "Other Ways",
+				"provider": "webview",
+				"image": "Resources-32",
+				"arguments": [
+					"https://23mediapros.blogspot.com/p/support-us.html"
+				]
+			}
+
+		]
+	},
+	{
+		"title": "More Resources!",
+		"drawable": "Resources-32",
+		"submenu": "Extras",
+		"iap": false,
+		"tabs": [{
+			"title": "More Resources!",
+			"provider": "overview",
+			"arguments": [
+				"overview.json"
+			]
+		}]
+	}
+]
