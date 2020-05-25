@@ -184,7 +184,7 @@
 	{
 		"title": "الموقع الرسمي",
 		"drawable": "Domain-32",
-		"submenu": "About Us",
+		"submenu": "من نحن",
 		"iap": false,
 		"tabs": [{
 			"title": "Th3 Professional",
@@ -930,9 +930,9 @@
 		]
 	},
 	{
-		"title": "More Resources!",
+		"title": "معلومات",
 		"drawable": "Resources-32",
-		"submenu": "Extras",
+		"submenu": "المزيد",
 		"iap": false,
 		"tabs": [{
 			"title": "More Resources!",
