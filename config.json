@@ -1,6 +1,6 @@
 [{
 		"title": "قنـــاة المحترف",
-		"drawable": "Domain-32",
+		"drawable": "youtube",
 		"submenu": "الرئيسية",
 		"iap": false,
 		"tabs": [{
@@ -100,7 +100,7 @@
 						{
 				"title": "فيسبوك ",
 				"provider": "webview",
-				"image": "Domain-32",
+				"image": "facebook",
 				"arguments": [
 					"https://www.th3professional.com/search/label/%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83?max-results=16#post-body-2115279203351204082"
 				]
@@ -144,7 +144,7 @@
 	},
 	{
 		"title": "Facebook",
-		"drawable": "Facebook-32",
+		"drawable": "facebook",
 		"submenu": "مواقع التواصل",
 		"iap": false,
 		"tabs": [{
@@ -157,7 +157,7 @@
 	},
 	{
 		"title": "Twitter",
-		"drawable": "Twitter-32",
+		"drawable": "twitter",
 		"submenu": "مواقع التواصل",
 		"iap": false,
 		"tabs": [{
@@ -170,7 +170,7 @@
 	},
 	{
 		"title": "Instagram",
-		"drawable": "Instagram-32",
+		"drawable": "instagram",
 		"submenu": "مواقع التواصل",
 		"iap": false,
 		"tabs": [{
@@ -183,7 +183,7 @@
 	},
 	{
 		"title": "الموقع الرسمي",
-		"drawable": "Domain-32",
+		"drawable": "HOMEPNG",
 		"submenu": "من نحن",
 		"iap": false,
 		"tabs": [{
@@ -196,7 +196,7 @@
 	},
 	{
 		"title": "ادعم المبرمج",
-		"drawable": "Donate-32",
+		"drawable": "Donate2us",
 		"submenu": "About Us",
 		"iap": false,
 		"tabs": [{
