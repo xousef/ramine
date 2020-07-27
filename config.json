@@ -197,7 +197,7 @@
 	{
 		"title": "ادعم المبرمج",
 		"drawable": "Donate2us",
-		"submenu": "About Us",
+		"submenu": "المبرمج",
 		"iap": false,
 		"tabs": [{
 				"title": "دعم المبرمج",
