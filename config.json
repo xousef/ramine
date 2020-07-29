@@ -4,7 +4,7 @@
 		"submenu": "",
 		"tabs": [{
 				"title": "Videos",
-				"image": "sharp_home_black_48pt",
+				"image": "exclusive",
 				"provider": "youtube",
 				"arguments": [
 					"UCxBR44IXdJY0gsfHcIDMQuQ",
@@ -13,7 +13,7 @@
 			},
 			{
 				"title": " Playlists",
-				"image": "sharp_playlist_play_black_48pt",
+				"image": "th3channel",
 				"provider": "youtube",
 				"arguments": [
 					"FLxBR44IXdJY0gsfHcIDMQuQ",
@@ -22,7 +22,7 @@
 			},
 			{
 				"title": " Live Quran ",
-				"image": "sharp_live_tv_black_48pt",
+				"image": "Online-32",
 				"provider": "youtube",
 				"arguments": [
 					"PLwFKCcfzSO0ohwVHa8pAMsMkZ7hRQRiQI",
@@ -31,7 +31,7 @@
 			},
 			{
 				"title": "English Tafseer",
-				"image": "sharp_record_voice_over_black_48pt",
+				"image": "playlistth3",
 				"provider": "youtube",
 				"arguments": [
 					"PLwFKCcfzSO0pTUygNJr4YVXGnoL_LFAe0",
@@ -137,7 +137,7 @@
 		"submenu": "",
 		"tabs": [{
 			"title": "Radio 3FM",
-			"image": "logo",
+			"image": "th3prolive",
 			"provider": "radio",
 			"arguments": [
 				"http://yp.shoutcast.com/sbin/tunein-station.m3u?id=629009"
