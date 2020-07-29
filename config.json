@@ -230,21 +230,6 @@
 		"iap": false
 	},
 	{
-		"title": "Flickr",
-		"drawable": "flickr",
-		"submenu": "Social Media",
-		"tabs": [{
-			"title": "Flickr",
-			"image": "flickr",
-			"provider": "webview",
-			"arguments": [
-				"https://www.flickr.com/groups/religon_of_peace/pool/",
-				"photoset"
-			]
-		}],
-		"iap": false
-	},
-	{
 		"title": "Twitter",
 		"drawable": "twitter",
 		"submenu": "Social Media",
