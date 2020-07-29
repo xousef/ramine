@@ -1,243 +1,359 @@
 [{
-		"title": "قنـــاة المحترف",
-		"drawable": "youtube",
-		"submenu": "الرئيسية",
-		"iap": false,
+		"title": "Video Library",
+		"drawable": "YoutubeIcon",
+		"submenu": "",
 		"tabs": [{
-				"title": "قناة المحترف",
+				"title": "Videos",
+				"image": "sharp_home_black_48pt",
 				"provider": "youtube",
-				"image": "th3channel",
 				"arguments": [
-					"UCO58fldVogtwlz7c2PTeWrg",
+					"UCxBR44IXdJY0gsfHcIDMQuQ",
 					"channel"
 				]
 			},
 			{
-				"title": "فلوجات البث المباشر",
+				"title": " Playlists",
+				"image": "sharp_playlist_play_black_48pt",
 				"provider": "youtube",
-				"image": "Online-32",
 				"arguments": [
-					"UCPBcpWVTN2ilF9KsRYEe1Fg",
-					"channel"
-					
+					"FLxBR44IXdJY0gsfHcIDMQuQ",
+					"playlist"
 				]
 			},
 			{
-				"title": "المجانيات",
-				"provider": "webview",
-				"image": "freebie",
-				"arguments": [
-					"https://www.th3professional.com/search/label/giveaway?max-results=16#post-body-7918051403958411254"
-
-				]
-			},
-			{
-				"title": "الحلقات",
-				"provider": "webview",
-				"image": "playlistth3",
-				"arguments": [
-					"https://www.th3professional.com/search/label/%D8%AD%D9%84%D9%82%D8%A7%D8%AA%20%D9%85%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5%D9%8A%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9?max-results=16#post-body-5526956791373638276"
-					
-				]
-			}
-		]
-	},
-	{
-		"title": " تدوين مرئي",
-		"drawable": "th3prolive",
-		"submenu": "تدوين",
-		"iap": false,
-		"tabs": [{
-				"title": "البث المباشر ",
+				"title": " Live Quran ",
+				"image": "sharp_live_tv_black_48pt",
 				"provider": "youtube",
-				"image": "TV-Show-32",
 				"arguments": [
-					"UCPBcpWVTN2ilF9KsRYEe1Fg",
-					"live"
-				]
-			},
-
-		]
-
-	},
-	{
-		"title": "مقالات",
-		"drawable": "TheProArticals",
-		"submenu": "تدوين",
-		"iap": false,
-		"tabs": [{
-				"title": "مقالات",
-				"image": "articales",
-				"provider": "webview",
-				"arguments": [
-					"https://www.th3professional.com/search/label/blogpost?max-results=16#post-body-5424519272907193965"
+					"PLwFKCcfzSO0ohwVHa8pAMsMkZ7hRQRiQI",
+					"playlist"
 				]
 			},
 			{
-				"title": "حصريات ",
-				"provider": "webview",
-				"image": "exclusive",
+				"title": "English Tafseer",
+				"image": "sharp_record_voice_over_black_48pt",
+				"provider": "youtube",
 				"arguments": [
-					"https://www.th3professional.com/search/label/%D8%AD%D8%B5%D8%B1%D9%8A%D8%A7%D8%AA?max-results=10#post-body-4297805406959103656"
+					"PLwFKCcfzSO0pTUygNJr4YVXGnoL_LFAe0",
+					"playlist"
 				]
 			},
 			{
-				"title": "الحماية ",
-				"provider": "webview",
-				"image": "security",
+				"title": " Quran In English  ",
+				"image": "youtubelower",
+				"provider": "youtube",
 				"arguments": [
-					"https://www.th3professional.com/search/label/%D8%AF%D8%B1%D9%88%D8%B3%20%D8%AD%D9%85%D8%A7%D9%8A%D8%A9?max-results=16#post-body-8446910328355272011"
+					"PLSoV91w6qqCmfbYGA_RK39P7di9blYZA3",
+					"playlist"
 				]
 			},
 			{
-				"title": "جوجل ",
-				"provider": "webview",
-				"image": "googleth3",
+				"title": " Quran In Spanish  ",
+				"image": "youtubelower",
+				"provider": "youtube",
 				"arguments": [
-					"https://www.th3professional.com/search/label/googleplus?max-results=16#post-body-7778953505899990709"
+					"PL7t1v5w-5vWr3u7VSiXaAgl9ybQdzPlqG",
+					"playlist"
 				]
 			},
-						{
-				"title": "فيسبوك ",
-				"provider": "webview",
-				"image": "facebookth3",
+			{
+				"title": " Quran In Urdu  ",
+				"image": "youtubelower",
+				"provider": "youtube",
 				"arguments": [
-					"https://www.th3professional.com/search/label/%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83?max-results=16#post-body-2115279203351204082"
+					"PLVp7UhSMrQ8ORshzIKJdTZduPQBQ2LKPI",
+					"playlist"
+				]
+			},
+			{
+				"title": " Quran In Hindi  ",
+				"image": "youtubelower",
+				"provider": "youtube",
+				"arguments": [
+					"PLBBC5387043EEABAA",
+					"playlist"
+				]
+			},
+			{
+				"title": " Quran In Farsi  ",
+				"image": "youtubelower",
+				"provider": "youtube",
+				"arguments": [
+					"PLmV4iqsDvH-Z59vIAfIMEEj4wIJOiWhY-",
+					"playlist"
+				]
+			},
+			{
+				"title": " Quran In Turkish  ",
+				"image": "youtubelower",
+				"provider": "youtube",
+				"arguments": [
+					"PL7t1v5w-5vWpLcU_8kTLDJ3Q0KdPyNbtB",
+					"playlist"
+				]
+			},
+			{
+				"title": " Quran In German  ",
+				"image": "youtubelower",
+				"provider": "youtube",
+				"arguments": [
+					"PLLboJT6JtoOUnOGoix2XC-Gtdn1Y1wKxA",
+					"playlist"
+				]
+			},
+			{
+				"title": " Quran In French  ",
+				"image": "youtubelower",
+				"provider": "youtube",
+				"arguments": [
+					"PLy0a_yr1GL0DDtb5PPrUFyCSWLg_fhokT",
+					"playlist"
+				]
+			},
+			{
+				"title": " Quran In Russian ",
+				"image": "youtubelower",
+				"provider": "youtube",
+				"arguments": [
+					"PLxpAkjlGauHetUa4K_EQfLrCrSUYBmhB4",
+					"playlist"
+				]
+			},
+			{
+				"title": " Quran In Greek ",
+				"image": "youtubelower",
+				"provider": "youtube",
+				"arguments": [
+					"PL7t1v5w-5vWpbVcaLxuLd87YUkOBe-wCC",
+					"playlist"
 				]
 			}
-			
-		]
-
+		],
+		"iap": false
 	},
 	{
-		"title": "الانظمه",
-		"drawable": "OperatingSystems",
-		"submenu": "تدوين",
-		"iap": false,
+		"title": "Radio 3FM",
+		"drawable": "RadioIcon",
+		"submenu": "",
 		"tabs": [{
-				"title": "ويندوز",
-				"image": "windows",
-				"provider": "webview",
-				"arguments": [
-					"https://www.th3professional.com/search/label/windows7?max-results=16#post-body-2328199128021172309"
-				]
-			},
-			{
-				"title": "لينكس ",
-				"provider": "webview",
-				"image": "linux3",
-				"arguments": [
-					"https://www.th3professional.com/search/label/linux?max-results=16#post-body-5860303134737165714"
-				]
-			},
-			{
-				"title": "اندرويد ",
-				"provider": "webview",
-				"image": "Androidth3",
-				"arguments": [
-					"https://www.th3professional.com/search/label/android?max-results=16#post-body-464346781908747904"
-				]
-			}
-			
-		]
-
+			"title": "Radio 3FM",
+			"image": "logo",
+			"provider": "radio",
+			"arguments": [
+				"http://yp.shoutcast.com/sbin/tunein-station.m3u?id=629009"
+			]
+		}],
+		"iap": false
 	},
 	{
-		"title": "Facebook",
-		"drawable": "facebook",
-		"submenu": "مواقع التواصل",
-		"iap": false,
+		"title": "Guide Us TV",
+		"drawable": "GUIDEUS",
+		"submenu": "Live Tv's",
 		"tabs": [{
-			"title": "Facebook",
+			"title": "Guide Us TV Live!",
+			"image": "GUIDEUS",
+			"provider": "stream",
+			"arguments": [
+				"http://stream.streamislam.com:8080/streamer/live/index.m3u8"
+			]
+		}],
+		"iap": false
+	},
+	{
+		"title": "Huda TV",
+		"drawable": "HUDATV",
+		"submenu": "",
+		"tabs": [{
+			"title": "Huda TV Live! ",
+			"image": "HUDATV",
+			"provider": "stream",
+			"arguments": [
+				"http://41.33.67.146:1935/live/1mystream/playlist.m3u8"
+			]
+		}],
+		"iap": false
+	},
+	{
+		"title": "Islam Channel",
+		"drawable": "ISLAMTV",
+		"submenu": "",
+		"tabs": [{
+			"title": "Islamic Tv Live! TV",
+			"image": "ISLAMTV",
+			"provider": "stream",
+			"arguments": [
+				"https://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8"
+			]
+		}],
+		"iap": false
+	},
+	{
+		"title": "Peace Tv TV",
+		"drawable": "lives",
+		"submenu": "",
+		"tabs": [{
+			"title": "Peace TV Live! English",
+			"image": "lives",
+			"provider": "stream",
+			"arguments": [
+				"http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8"
+			]
+		}],
+		"iap": false
+	},
+	{
+		"title": "Podcasts",
+		"drawable": "prodcast",
+		"submenu": "Podcasts",
+		"tabs": [{
+			"title": "Podcasts",
+			"image": "podcast",
+			"provider": "rss",
+			"arguments": [
+				"http://deenspiration.com/feed/podcast/"
+			]
+		}],
+		"iap": false
+	},
+	{
+		"title": "Lectures",
+		"drawable": "SeekersIcon",
+		"submenu": "Podcasts",
+		"tabs": [{
+			"title": "Lectures Podcasts",
+			"image": "SeekersIcon",
 			"provider": "webview",
 			"arguments": [
-				"https://www.facebook.com/TH3.professional#js_b"
+				"https://muslimcentral.com/podcasts/#tns12"
 			]
-		}]
+		}],
+		"iap": false
+	},
+	{
+		"title": "Flickr",
+		"drawable": "flickr",
+		"submenu": "Social Media",
+		"tabs": [{
+			"title": "Flickr",
+			"image": "flickr",
+			"provider": "webview",
+			"arguments": [
+				"https://www.flickr.com/groups/religon_of_peace/pool/",
+				"photoset"
+			]
+		}],
+		"iap": false
 	},
 	{
 		"title": "Twitter",
 		"drawable": "twitter",
-		"submenu": "مواقع التواصل",
-		"iap": false,
+		"submenu": "Social Media",
 		"tabs": [{
 			"title": "Twitter",
+			"image": "Twitter",
 			"provider": "twitter",
 			"arguments": [
-				"mr_Raghib"
+				"talkislam1"
 			]
-		}]
+		}],
+		"iap": false
 	},
 	{
 		"title": "Instagram",
 		"drawable": "instagram",
-		"submenu": "مواقع التواصل",
-		"iap": false,
+		"submenu": "Social Media",
 		"tabs": [{
 			"title": "Instagram",
+			"image": "instagram",
 			"provider": "webview",
 			"arguments": [
-				"https://www.instagram.com/raghib.official/"
+				"https://www.Instagram.com/talkislam"
 			]
-		}]
+		}],
+		"iap": false
 	},
 	{
-		"title": "الموقع الرسمي",
+		"title": "Facebook",
+		"drawable": "facebook",
+		"submenu": "Social Media",
+		"tabs": [{
+			"title": "Facebook",
+			"image": "facebook",
+			"provider": "webview",
+			"arguments": [
+				"https://www.facebook.com/talkislam/"
+			]
+		}],
+		"iap": false
+	},
+	{
+		"title": "Latest Posts",
+		"drawable": "latestPost",
+		"submenu": "",
+		"tabs": [{
+			"title": "Latest Posts",
+			"image": "latestPost",
+			"provider": "rss",
+			"arguments": [
+				"https://www.talkislam.info/feed/"
+			]
+		}],
+		"iap": false
+	},
+	{
+		"title": "Official Website",
 		"drawable": "HOMEPNG",
-		"submenu": "زورونا",
-		"iap": false,
+		"submenu": "Other",
 		"tabs": [{
-			"title": "Th3 Professional",
+			"title": "Talk Islam",
+			"image": "",
 			"provider": "webview",
 			"arguments": [
-				"https://www.th3professional.com"
+				"https://www.talkislam.info/"
 			]
-		}]
+		}],
+		"iap": false
 	},
 	{
-		"title": "ادعم المبرمج",
+		"title": "Support Us",
 		"drawable": "Donate2us",
-		"submenu": "المبرمج",
-		"iap": false,
+		"submenu": "Other",
 		"tabs": [{
-				"title": "دعم المبرمج",
-				"provider": "webview",
-				"image": "give",
-				"arguments": [
-					"https://cash.app/$Xousef"
-				]
-			},
-			{
-				"title": "طرق اخرئ",
-				"provider": "webview",
-				"image": "give2",
-				"arguments": [
-					"https://23mediapros.blogspot.com/p/support-us.html"
-				]
-			},
-			 {
-				"title": "تواصل بلتوس اب",
-				"provider": "whatsapp",
-				"image": "Whatsapp-32",
-				"arguments": [
-					""
-				]
-			},
-			 
-
-		]
+			"title": "Support Our Development",
+			"image": "",
+			"provider": "webview",
+			"arguments": [
+				"https://23mediapros.blogspot.com/p/support-us.html"
+			]
+		}],
+		"iap": false
 	},
 	{
-		"title": "معلومات",
-		"drawable": "Resources-32",
-		"submenu": "المزيد",
-		"iap": false,
+		"title": "Updates",
+		"drawable": "updatednews",
+		"submenu": "Other",
 		"tabs": [{
-			"title": "More Resources!",
+			"title": "LATEST UPDATES",
+			"image": "lives",
+			"provider": "webview",
+			"arguments": [
+				"https://talkislamapp.blogspot.com/p/updates.html"
+			]
+		}],
+		"iap": false
+	},
+	{
+		"title": "Islamic Resources",
+		"drawable": "Ychannels",
+		"submenu": "Other",
+		"tabs": [{
+			"title": "Islamic Resources",
+			"image": "Ychannels",
 			"provider": "overview",
 			"arguments": [
 				"overview.json"
 			]
-		}]
+		}],
+		"iap": false
 	}
 ]
