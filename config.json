@@ -1,344 +1,945 @@
 [{
-		"title": "Video Library",
-		"drawable": "YoutubeIcon",
-		"submenu": "",
+		"title": "قنـــاة المحترف",
+		"drawable": "youtube",
+		"submenu": "الرئيسية",
+		"iap": false,
 		"tabs": [{
-				"title": "Videos",
-				"image": "exclusive",
+				"title": "قناة المحترف",
 				"provider": "youtube",
+				"image": "th3channel",
 				"arguments": [
-					"UCxBR44IXdJY0gsfHcIDMQuQ",
+					"UCO58fldVogtwlz7c2PTeWrg",
 					"channel"
 				]
 			},
 			{
-				"title": " Playlists",
-				"image": "th3channel",
+				"title": "فلوجات البث المباشر",
 				"provider": "youtube",
-				"arguments": [
-					"FLxBR44IXdJY0gsfHcIDMQuQ",
-					"playlist"
-				]
-			},
-			{
-				"title": " Live Quran ",
 				"image": "Online-32",
-				"provider": "youtube",
 				"arguments": [
-					"PLwFKCcfzSO0ohwVHa8pAMsMkZ7hRQRiQI",
-					"playlist"
+					"UCPBcpWVTN2ilF9KsRYEe1Fg",
+					"channel"
+					
 				]
 			},
 			{
-				"title": "English Tafseer",
+				"title": "المجانيات",
+				"provider": "webview",
+				"image": "freebie",
+				"arguments": [
+					"https://www.th3professional.com/search/label/giveaway?max-results=16#post-body-7918051403958411254"
+
+				]
+			},
+			{
+				"title": "الحلقات",
+				"provider": "webview",
 				"image": "playlistth3",
-				"provider": "youtube",
 				"arguments": [
-					"PLwFKCcfzSO0pTUygNJr4YVXGnoL_LFAe0",
-					"playlist"
-				]
-			},
-			{
-				"title": " Quran In English  ",
-				"image": "youtubelower",
-				"provider": "youtube",
-				"arguments": [
-					"PLSoV91w6qqCmfbYGA_RK39P7di9blYZA3",
-					"playlist"
-				]
-			},
-			{
-				"title": " Quran In Spanish  ",
-				"image": "youtubelower",
-				"provider": "youtube",
-				"arguments": [
-					"PL7t1v5w-5vWr3u7VSiXaAgl9ybQdzPlqG",
-					"playlist"
-				]
-			},
-			{
-				"title": " Quran In Urdu  ",
-				"image": "youtubelower",
-				"provider": "youtube",
-				"arguments": [
-					"PLVp7UhSMrQ8ORshzIKJdTZduPQBQ2LKPI",
-					"playlist"
-				]
-			},
-			{
-				"title": " Quran In Hindi  ",
-				"image": "youtubelower",
-				"provider": "youtube",
-				"arguments": [
-					"PLBBC5387043EEABAA",
-					"playlist"
-				]
-			},
-			{
-				"title": " Quran In Farsi  ",
-				"image": "youtubelower",
-				"provider": "youtube",
-				"arguments": [
-					"PLmV4iqsDvH-Z59vIAfIMEEj4wIJOiWhY-",
-					"playlist"
-				]
-			},
-			{
-				"title": " Quran In Turkish  ",
-				"image": "youtubelower",
-				"provider": "youtube",
-				"arguments": [
-					"PL7t1v5w-5vWpLcU_8kTLDJ3Q0KdPyNbtB",
-					"playlist"
-				]
-			},
-			{
-				"title": " Quran In German  ",
-				"image": "youtubelower",
-				"provider": "youtube",
-				"arguments": [
-					"PLLboJT6JtoOUnOGoix2XC-Gtdn1Y1wKxA",
-					"playlist"
-				]
-			},
-			{
-				"title": " Quran In French  ",
-				"image": "youtubelower",
-				"provider": "youtube",
-				"arguments": [
-					"PLy0a_yr1GL0DDtb5PPrUFyCSWLg_fhokT",
-					"playlist"
-				]
-			},
-			{
-				"title": " Quran In Russian ",
-				"image": "youtubelower",
-				"provider": "youtube",
-				"arguments": [
-					"PLxpAkjlGauHetUa4K_EQfLrCrSUYBmhB4",
-					"playlist"
-				]
-			},
-			{
-				"title": " Quran In Greek ",
-				"image": "youtubelower",
-				"provider": "youtube",
-				"arguments": [
-					"PL7t1v5w-5vWpbVcaLxuLd87YUkOBe-wCC",
-					"playlist"
+					"https://www.th3professional.com/search/label/%D8%AD%D9%84%D9%82%D8%A7%D8%AA%20%D9%85%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5%D9%8A%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9?max-results=16#post-body-5526956791373638276"
+					
 				]
 			}
-		],
-		"iap": false
+		]
 	},
 	{
-		"title": "Radio 3FM",
-		"drawable": "RadioIcon",
-		"submenu": "",
+		"title": " تدوين مرئي",
+		"drawable": "th3prolive",
+		"submenu": "تدوين",
+		"iap": false,
 		"tabs": [{
-			"title": "Radio 3FM",
-			"image": "th3prolive",
-			"provider": "radio",
-			"arguments": [
-				"http://yp.shoutcast.com/sbin/tunein-station.m3u?id=629009"
-			]
-		}],
-		"iap": false
+				"title": "البث المباشر ",
+				"provider": "youtube",
+				"image": "TV-Show-32",
+				"arguments": [
+					"UCPBcpWVTN2ilF9KsRYEe1Fg",
+					"live"
+				]
+			},
+
+		]
+
 	},
 	{
-		"title": "Guide Us TV",
-		"drawable": "GUIDEUS",
-		"submenu": "Live Tv's",
+		"title": "مقالات",
+		"drawable": "TheProArticals",
+		"submenu": "تدوين",
+		"iap": false,
 		"tabs": [{
-			"title": "Guide Us TV Live!",
-			"image": "GUIDEUS",
-			"provider": "stream",
-			"arguments": [
-				"http://stream.streamislam.com:8080/streamer/live/index.m3u8"
-			]
-		}],
-		"iap": false
+				"title": "مقالات",
+				"image": "articales",
+				"provider": "webview",
+				"arguments": [
+					"https://www.th3professional.com/search/label/blogpost?max-results=16#post-body-5424519272907193965"
+				]
+			},
+			{
+				"title": "حصريات ",
+				"provider": "webview",
+				"image": "exclusive",
+				"arguments": [
+					"https://www.th3professional.com/search/label/%D8%AD%D8%B5%D8%B1%D9%8A%D8%A7%D8%AA?max-results=10#post-body-4297805406959103656"
+				]
+			},
+			{
+				"title": "الحماية ",
+				"provider": "webview",
+				"image": "security",
+				"arguments": [
+					"https://www.th3professional.com/search/label/%D8%AF%D8%B1%D9%88%D8%B3%20%D8%AD%D9%85%D8%A7%D9%8A%D8%A9?max-results=16#post-body-8446910328355272011"
+				]
+			},
+			{
+				"title": "جوجل ",
+				"provider": "webview",
+				"image": "googleth3",
+				"arguments": [
+					"https://www.th3professional.com/search/label/googleplus?max-results=16#post-body-7778953505899990709"
+				]
+			},
+						{
+				"title": "فيسبوك ",
+				"provider": "webview",
+				"image": "facebookth3",
+				"arguments": [
+					"https://www.th3professional.com/search/label/%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83?max-results=16#post-body-2115279203351204082"
+				]
+			}
+			
+		]
+
 	},
 	{
-		"title": "Huda TV",
-		"drawable": "HUDATV",
-		"submenu": "",
+		"title": "الانظمه",
+		"drawable": "OperatingSystems",
+		"submenu": "تدوين",
+		"iap": false,
 		"tabs": [{
-			"title": "Huda TV Live! ",
-			"image": "HUDATV",
-			"provider": "stream",
-			"arguments": [
-				"http://41.33.67.146:1935/live/1mystream/playlist.m3u8"
-			]
-		}],
-		"iap": false
-	},
-	{
-		"title": "Islam Channel",
-		"drawable": "ISLAMTV",
-		"submenu": "",
-		"tabs": [{
-			"title": "Islamic Tv Live! TV",
-			"image": "ISLAMTV",
-			"provider": "stream",
-			"arguments": [
-				"https://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8"
-			]
-		}],
-		"iap": false
-	},
-	{
-		"title": "Peace Tv TV",
-		"drawable": "lives",
-		"submenu": "",
-		"tabs": [{
-			"title": "Peace TV Live! English",
-			"image": "lives",
-			"provider": "stream",
-			"arguments": [
-				"http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8"
-			]
-		}],
-		"iap": false
-	},
-	{
-		"title": "Podcasts",
-		"drawable": "prodcast",
-		"submenu": "Podcasts",
-		"tabs": [{
-			"title": "Podcasts",
-			"image": "podcast",
-			"provider": "rss",
-			"arguments": [
-				"http://deenspiration.com/feed/podcast/"
-			]
-		}],
-		"iap": false
-	},
-	{
-		"title": "Lectures",
-		"drawable": "SeekersIcon",
-		"submenu": "Podcasts",
-		"tabs": [{
-			"title": "Lectures Podcasts",
-			"image": "SeekersIcon",
-			"provider": "webview",
-			"arguments": [
-				"https://muslimcentral.com/podcasts/#tns12"
-			]
-		}],
-		"iap": false
-	},
-	{
-		"title": "Twitter",
-		"drawable": "twitter",
-		"submenu": "Social Media",
-		"tabs": [{
-			"title": "Twitter",
-			"image": "Twitter",
-			"provider": "twitter",
-			"arguments": [
-				"talkislam1"
-			]
-		}],
-		"iap": false
-	},
-	{
-		"title": "Instagram",
-		"drawable": "instagram",
-		"submenu": "Social Media",
-		"tabs": [{
-			"title": "Instagram",
-			"image": "instagram",
-			"provider": "webview",
-			"arguments": [
-				"https://www.Instagram.com/talkislam"
-			]
-		}],
-		"iap": false
+				"title": "ويندوز",
+				"image": "windows",
+				"provider": "webview",
+				"arguments": [
+					"https://www.th3professional.com/search/label/windows7?max-results=16#post-body-2328199128021172309"
+				]
+			},
+			{
+				"title": "لينكس ",
+				"provider": "webview",
+				"image": "linux3",
+				"arguments": [
+					"https://www.th3professional.com/search/label/linux?max-results=16#post-body-5860303134737165714"
+				]
+			},
+			{
+				"title": "اندرويد ",
+				"provider": "webview",
+				"image": "Androidth3",
+				"arguments": [
+					"https://www.th3professional.com/search/label/android?max-results=16#post-body-464346781908747904"
+				]
+			}
+			
+		]
+
 	},
 	{
 		"title": "Facebook",
 		"drawable": "facebook",
-		"submenu": "Social Media",
+		"submenu": "مواقع التواصل",
+		"iap": false,
 		"tabs": [{
 			"title": "Facebook",
-			"image": "facebook",
 			"provider": "webview",
 			"arguments": [
-				"https://www.facebook.com/talkislam/"
+				"https://www.facebook.com/TH3.professional#js_b"
 			]
-		}],
-		"iap": false
+		}]
 	},
 	{
-		"title": "Latest Posts",
-		"drawable": "latestPost",
-		"submenu": "",
+		"title": "Twitter",
+		"drawable": "twitter",
+		"submenu": "مواقع التواصل",
+		"iap": false,
 		"tabs": [{
-			"title": "Latest Posts",
-			"image": "latestPost",
-			"provider": "rss",
+			"title": "Twitter",
+			"provider": "twitter",
 			"arguments": [
-				"https://www.talkislam.info/feed/"
+				"mr_Raghib"
 			]
-		}],
-		"iap": false
+		}]
 	},
 	{
-		"title": "Official Website",
+		"title": "Instagram",
+		"drawable": "instagram",
+		"submenu": "مواقع التواصل",
+		"iap": false,
+		"tabs": [{
+			"title": "Instagram",
+			"provider": "webview",
+			"arguments": [
+				"https://www.instagram.com/raghib.official/"
+			]
+		}]
+	},
+	{
+		"title": "الموقع الرسمي",
 		"drawable": "HOMEPNG",
-		"submenu": "Other",
+		"submenu": "زورونا",
+		"iap": false,
 		"tabs": [{
-			"title": "Talk Islam",
-			"image": "",
+			"title": "Th3 Professional",
 			"provider": "webview",
 			"arguments": [
-				"https://www.talkislam.info/"
+				"https://www.th3professional.com"
 			]
-		}],
-		"iap": false
+		}]
 	},
 	{
-		"title": "Support Us",
+		"title": "ادعم المبرمج",
 		"drawable": "Donate2us",
-		"submenu": "Other",
+		"submenu": "المبرمج",
+		"iap": false,
 		"tabs": [{
-			"title": "Support Our Development",
-			"image": "",
-			"provider": "webview",
-			"arguments": [
-				"https://23mediapros.blogspot.com/p/support-us.html"
-			]
-		}],
-		"iap": false
+				"title": "دعم المبرمج",
+				"provider": "webview",
+				"image": "give",
+				"arguments": [
+					"https://cash.app/$Xousef"
+				]
+			},
+			{
+				"title": "طرق اخرئ",
+				"provider": "webview",
+				"image": "give2",
+				"arguments": [
+					"https://23mediapros.blogspot.com/p/support-us.html"
+				]
+			},
+			 {
+				"title": "تواصل عبر الوتس اب",
+				"provider": "whatsapp",
+				"image": "Whatsapp-32",
+				"arguments": [
+					""
+				]
+			},
+			 
+
+		]
 	},
 	{
-		"title": "Updates",
-		"drawable": "updatednews",
-		"submenu": "Other",
+		"title": "اجمالي حالات الوباء",
+		"drawable": "Th3proTotalVirus",
+		"submenu": "الحجر الصحي",
+		"iap": false,
 		"tabs": [{
-			"title": "LATEST UPDATES",
-			"image": "lives",
-			"provider": "webview",
-			"arguments": [
-				"https://talkislamapp.blogspot.com/p/updates.html"
-			]
-		}],
-		"iap": false
+				"title": "United States",
+				"provider": "alltheworld",
+				"submenu": "الحجر الصحي",
+				"arguments": [
+					""
+				]
+			},
+		]
+	},	      
+	{
+		"title": "احصائيات كورونا في الدول",
+		"drawable": "th3proStatsVirus",
+		"submenu": "الحجر الصحي",
+		"iap": false,
+		"tabs": [{
+				"title": "United States",
+				"provider": "usa",
+				"image": "USA-32",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Mainland China",
+				"provider": "china",
+				"image": "China-32",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Italy",
+				"provider": "italy",
+				"image": "Italy-32",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Spain",
+				"provider": "spain",
+				"image": "Spain-32",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Germany",
+				"provider": "germany",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Afghanistan",
+				"provider": "afghan",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Albania",
+				"provider": "albania",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Algeria",
+				"provider": "algeria",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Argentina",
+				"provider": "argentina",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Australia",
+				"provider": "australia",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Austria",
+				"provider": "austria",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Azerbaijan",
+				"provider": "azerbaijan",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Bahamas",
+				"provider": "bahamas",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Bahrain",
+				"provider": "bahrain",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Bangladesh",
+				"provider": "bangladesh",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Belgium",
+				"provider": "belgium",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Brazil",
+				"provider": "brazil",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Cameroon",
+				"provider": "cameroon",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Canada",
+				"provider": "canada",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Colombia",
+				"provider": "colombia",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Cuba",
+				"provider": "cuba",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Diamond Princess",
+				"provider": "diamondprincess",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Egypt",
+				"provider": "egypt",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "El Salvador",
+				"provider": "elsalvador",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Fiji",
+				"provider": "fiji",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "France",
+				"provider": "france",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Guatemala",
+				"provider": "guatemala",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Honduras",
+				"provider": "honduras",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Hong Kong",
+				"provider": "hongkong",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "India",
+				"provider": "india",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Indonesia",
+				"provider": "indonesia",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Iran",
+				"provider": "iran",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Iraq",
+				"provider": "iraq",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Ireland",
+				"provider": "Ireland",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Isle Of Man",
+				"provider": "isleofman",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Djibouti",
+				"provider": "jabooti",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Jamaica",
+				"provider": "jamaica",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Japan",
+				"provider": "japan",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Jordan",
+				"provider": "jordan",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Kazakhstan",
+				"provider": "kazakhstan",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "kenya",
+				"provider": "kenya",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Kuwait",
+				"provider": "kuwait",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Kyrgyzstan",
+				"provider": "kyrgyzstan",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Lebanon",
+				"provider": "lebanon",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Liberia",
+				"provider": "liberia",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Libya",
+				"provider": "libya",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Malaysia",
+				"provider": "malaysia",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "Mauritania",
+				"provider": "mauritania",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "Mexico",
+				"provider": "mexico",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "Morocco",
+				"provider": "morocco",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "Nepal",
+				"provider": "nepal",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Netherlands",
+				"provider": "netherlands",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "New Zealand",
+				"provider": "newzealand",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Nigeria",
+				"provider": "nigeria",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Norway",
+				"provider": "norway",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Oman",
+				"provider": "oman",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "Pakistan",
+				"provider": "pakistan",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "Palestine",
+				"provider": "palestine",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Philippines",
+				"provider": "philippines",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Portugal",
+				"provider": "portugal",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Costa Rica",
+				"provider": "puertorico",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Russia",
+				"provider": "russia",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Saudi Arabia",
+				"provider": "ksa",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "South Africa",
+				"provider": "safrica",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Singapore",
+				"provider": "singapore",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "S. Korea",
+				"provider": "skorea",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "N. Korea",
+				"provider": "nkorea",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Somali",
+				"provider": "somali",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Sudan",
+				"provider": "sudan",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Sweden",
+				"provider": "sweden",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Switzerland",
+				"provider": "switzerland",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Syria",
+				"provider": "syria",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Taiwan",
+				"provider": "taiwan",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "Thailand",
+				"provider": "thailand",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "Tunisia",
+				"provider": "tunisia",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "Tonga",
+				"provider": "tonga",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "Turkey",
+				"provider": "turkey",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "UAE",
+				"provider": "uae",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "UK",
+				"provider": "uk",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "Ukraine",
+				"provider": "ukraine",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "British Virgin Islands",
+				"provider": "usislands",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "U.S Virgin Islands",
+				"provider": "USVirgin",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "Uzbekistan",
+				"provider": "uzbekistan",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "Venezuela",
+				"provider": "venezuela",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "N.Yemen",
+				"provider": "nyemen",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}, {
+				"title": "S.Yemen",
+				"provider": "yemen",
+				"image": "",
+				"arguments": [
+					""
+				]
+			},
+			{
+				"title": "More Countries",
+				"provider": "morecountries",
+				"image": "",
+				"arguments": [
+					""
+				]
+			}
+
+		]
 	},
 	{
-		"title": "Islamic Resources",
-		"drawable": "Ychannels",
-		"submenu": "Other",
+		"title": "معلومات",
+		"drawable": "Resources-32",
+		"submenu": "المزيد",
+		"iap": false,
 		"tabs": [{
-			"title": "Islamic Resources",
-			"image": "Ychannels",
+			"title": "More Resources!",
 			"provider": "overview",
 			"arguments": [
 				"overview.json"
 			]
-		}],
-		"iap": false
+		}]
 	}
 ]
